@@ -1,0 +1,14 @@
+
+
+object Salut {
+    def main(args: Array[String]){
+      println("Salut din Scala!");
+      var std = new Student("Mihai", "Cornel");
+      std.afiseaza;
+      std.setNume("Vasile");
+      std.afiseaza;
+      std.setPrenume("Radu");
+      std.afiseaza;
+    }
+  
+}

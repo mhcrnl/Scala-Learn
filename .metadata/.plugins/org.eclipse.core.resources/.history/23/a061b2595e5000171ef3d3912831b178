@@ -1,0 +1,18 @@
+
+
+class Fibonacci {
+  
+  def fibo1(n:Int):Int = n match {
+    //Utilizare recursie
+    case 0 | 1 => n
+    case _ => fibo1(n-1) + fibo1(n-2)
+  }
+}
+
+
+object FiboTest{
+  def main(args:Array[String]){
+    var fib = new Fibonacci();
+    println (fib.fibo1(10));
+  }
+}

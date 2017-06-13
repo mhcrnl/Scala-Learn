@@ -1,0 +1,21 @@
+
+
+class Student (val num: String, val prenume: String) {
+  private var _nume: String = num;
+  var vprenume: String = prenume;
+  //Getter
+  def nume = _nume;
+  //Setter
+  def setNume (value:String):Unit = _nume = value ;
+  
+  def afiseaza {
+    println("Nume: " + _nume);
+    println("Prenume: " + vprenume);
+  }
+  /*
+  def setNume(num:String): String = {
+    var vnume:String = num ;
+    return vnume;
+  }
+  */
+}
