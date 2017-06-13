@@ -79,3 +79,10 @@ Caused by: com.cedarsoftware.util.io.JsonIoException: EOF reached prematurely
 2017-06-13 08:47:07,965  WARN [Worker-11] - ScalaProject - Project ScalaTest has platform default sourceLevel.
 2017-06-13 08:47:07,966  WARN [Worker-11] - ScalaProject - Project ScalaTest runs on platform default installation.
 2017-06-13 08:47:12,713  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-06-13 08:56:17,074  WARN [main] - ScalaProject - Project ScalaTest has platform default sourceLevel.
+2017-06-13 08:56:17,074  WARN [main] - ScalaProject - Project ScalaTest runs on platform default installation.
+2017-06-13 08:56:19,922  WARN [Worker-2] - ScalaProject - Project ScalaTest has platform default sourceLevel.
+2017-06-13 08:56:19,923  WARN [Worker-2] - ScalaProject - Project ScalaTest runs on platform default installation.
+2017-06-13 09:04:23,487  WARN [Worker-27] - ScalaProject - Project ScalaTest has platform default sourceLevel.
+2017-06-13 09:04:23,487  WARN [Worker-27] - ScalaProject - Project ScalaTest runs on platform default installation.
+2017-06-13 09:04:26,578  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.

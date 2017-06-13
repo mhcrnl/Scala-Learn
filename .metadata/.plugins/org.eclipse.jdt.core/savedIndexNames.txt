@@ -5,7 +5,6 @@ INDEX VERSION 1.130+C:\Users\mhcrnl\Documents\Scala-Learn\.metadata\.plugins\org
 2709225165.index
 911812697.index
 1689259093.index
-4206169336.index
 864307672.index
 3698447926.index
 3666609613.index
